@@ -1,2 +1,6 @@
 # hello-cpp
- hello world cpp to play with.
+ This is a basic repository to play with:
+ headers
+ multiple files
+ cmake
+ etc...
